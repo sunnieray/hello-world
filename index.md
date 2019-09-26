@@ -1,6 +1,4 @@
 # Hello World!
-hey
-bye
 
 
 
